@@ -27,10 +27,3 @@ class Robot
     @@names
   end
 end
-
-p example = Robot.new
-p example2 = Robot.new
-
-p Robot.show_names
-
-# Have to generate a 2 Letter Name with 3 digits at the end.
